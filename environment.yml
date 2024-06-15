@@ -2,3 +2,4 @@ dependencies:
       - pandas
       - streamlit
       - plotly
+      - openpyxl
